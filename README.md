@@ -1,6 +1,6 @@
 # Gas-Detection-System
 
 ## Tinkercad: 
-https://www.tinkercad.com/things/jbcKHLUwb06-copy-of-gas-detectingalarmbrinda/editel?sharecode=nA56dT7WnTS2W7Z5uo45nQDuVcg9RUtY09ZWzda3nxU
+https://www.tinkercad.com/things/jbcKHLUwb06-adescegasdetectionsystem/editel?sharecode=Y_8FrfFtILCRBCrrrs7ivC9O1I6z1vZDC3ILYHOcd6U
 
 ## Circuit
