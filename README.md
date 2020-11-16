@@ -7,6 +7,20 @@ This Device detects these gases and flashes a red led ON , beep the buzzer and d
 ## Tinkercad: 
 https://www.tinkercad.com/things/bS46B3htHic
 
+## Components:
+1.	Gas Sensor 
+2.	Breadboard 
+3.	Arduino
+4.	2 Resistors
+5.	Red & Green LED
+6.	Buzzer
+7.	LCD
+
+There are different types of electric chemical sensors, which are used in detection of harmful and toxic gases.
+For example, MQ2 sensor is sensitive for methane, butane LPG, smoke and flammable and combustible gases and MQ3 sensor is used for sensing alcohol, ethanol and smoke. 
+Here MQ2 sensor is used to detect smoke. 
+When gas interacts with the sensor, it is first ionized into its constituents and is then adsorbed by the sensing element. This adsorption creates a potential difference on the element i.e., the sensor outputs the voltage that is proportional to the concentration of smoke or gas. In other words, the greater the concentration of gas, the greater is the output voltage. The resistance of this sensor is different depending on the type of the gas and its sensitivity can also be adjusted using a built-in potentiometer, depending on how accurate the gas is to be detected. The output can be an analog signal that can be read with an analog input of the Arduino or additional output that can be read with the digital input of the Arduino.
+
 ## Circuit:
 ![Gas Detection System](https://user-images.githubusercontent.com/63101268/98551239-1880e680-22c3-11eb-8395-8950deb6a281.png)
 
