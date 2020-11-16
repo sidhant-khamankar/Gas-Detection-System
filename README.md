@@ -1,5 +1,9 @@
 # Gas-Detection-System
 
+## Description: 
+Gas detectors can be used to detect combustible, flammable and toxic gases, and oxygen depletion. This type of device is used widely in industry and can be found in locations, such as on oil rigs, to monitor manufacturing processes and in emerging technologies such as photovoltaic.
+This Device detects these gases and flashes a red led ON , beep the buzzer and display an alert and evacuate message on the LCD display. Tinkercad an online circuit simulation software by Autodesk is used to demonstrate its working.
+
 ## Tinkercad: 
 https://www.tinkercad.com/things/bS46B3htHic
 
