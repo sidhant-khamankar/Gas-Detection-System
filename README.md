@@ -7,8 +7,8 @@ https://www.tinkercad.com/things/bS46B3htHic
 ![Gas Detection System](https://user-images.githubusercontent.com/63101268/98551239-1880e680-22c3-11eb-8395-8950deb6a281.png)
 
 ## Code: 
-//Also present in Github Repository
-'''
+Also present in Github Repository
+```Arduino
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(5,6,8,9,10,11);
   
@@ -61,4 +61,4 @@ void loop()
     delay(1000);
   }      
 }
-'''
+```
