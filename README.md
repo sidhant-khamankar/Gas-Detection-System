@@ -8,7 +8,7 @@ https://www.tinkercad.com/things/bS46B3htHic
 
 ## Code: 
 //Also present in Github Repository
-
+'''
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(5,6,8,9,10,11);
   
@@ -61,3 +61,4 @@ void loop()
     delay(1000);
   }      
 }
+'''
